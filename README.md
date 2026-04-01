@@ -54,6 +54,15 @@ Bu projenin amacı:
 
 ## 📁 Proje Yapısı
 
+# Kaggle Kaza Yapma Riski Tahmini
+
+Bu proje, yol ve hava durumu koşullarına göre trafik kazası riskini tahmin eder.
+
+### Veri Seti
+Bu projedeki eğitim ve test verileri GitHub dosya boyutu sınırlarını aştığı için yüklenememiştir. Veri setine aşağıdaki bağlantıdan ulaşabilirsiniz:
+
+[Kaggle Kaza Yapma Riski Veri Setini İndir](https://www.kaggle.com/competitions/yarışma-linki-buraya)
+
 ```bash
 kaggle-kaza-riski/
 │
@@ -72,4 +81,4 @@ kaggle-kaza-riski/
 
 
 
-### VERİYİ https://www.kaggle.com/competitions/playground-series-s5e10/data burdaki linkten indirebilirsiniz.
+
