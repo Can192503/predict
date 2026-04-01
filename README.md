@@ -69,3 +69,7 @@ kaggle-kaza-riski/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
+
+
+### VERİYİ https://www.kaggle.com/competitions/playground-series-s5e10/data burdaki linkten indirebilirsiniz.
