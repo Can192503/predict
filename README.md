@@ -1,8 +1,5 @@
 
-from pathlib import Path
-from textwrap import dedent
 
-content = dedent("""\
 # 🚗 Accident Risk Prediction (Kaggle)
 
 🏆 **Kaggle Score:** `0.05559`
