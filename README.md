@@ -37,10 +37,6 @@ Bu projenin amacı:
 - weighted averaging
 - grid search ile optimum ağırlık seçimi
 
-Örnek ağırlık dağılımı:
-- CatBoost → ~0.25
-- LightGBM → ~0.10
-- XGBoost → ~0.65
 
 ### Ek Teknikler
 - kategorik değişkenlerin uygun biçimde işlenmesi
